@@ -1,1 +1,1 @@
-# Uri-Online-Judge-s-Problem-Solution
+# Uri Online Judge's Problem Solution
