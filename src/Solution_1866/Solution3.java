@@ -1,4 +1,4 @@
-package Solution_1866_Bill;
+package Solution_1866;
 
 import java.util.Scanner;
 /*

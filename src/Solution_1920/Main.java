@@ -1,4 +1,4 @@
-package Solution_1920_Triangle;
+package Solution_1920;
 
 import java.util.Scanner;
 

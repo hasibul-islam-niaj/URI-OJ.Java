@@ -1,4 +1,4 @@
-package Solution_1921_Guilherme_and_His_Kites;
+package Solution_1921;
 
 import java.util.Scanner;
 

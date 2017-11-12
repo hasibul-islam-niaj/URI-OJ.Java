@@ -1,4 +1,4 @@
-package Solution_1924_Victoria;
+package Solution_1924;
 
 import java.util.Scanner;
 

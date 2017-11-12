@@ -1,4 +1,4 @@
-package Solution_1914_Whose_turn_is_it;
+package Solution_1914;
 /*
  * Author :~ Hasibul Islam
  */
